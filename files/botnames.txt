@@ -23,3 +23,8 @@ Digital Ocean
 DNSimple
 Filmari
 Branicka Restaurace
+Papa Dzoukr
+Vladena
+Pekarna Kubat
+Tutum
+Travis CI
