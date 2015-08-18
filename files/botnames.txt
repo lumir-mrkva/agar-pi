@@ -43,3 +43,14 @@
 [bot]Android
 [bot]Babel
 [bot]React.js
+[bot]WebApi
+[bot]Learn or die
+[bot]Teach or die
+[bot]TopMonks Caffe
+[bot]Embrace change
+[bot]Weirdness
+[bot]Angular
+[bot]Node.js
+[bot]Elastic Search
+[bot]Chef
+[bot]Join us!
