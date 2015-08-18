@@ -54,3 +54,4 @@
 [bot]Elastic Search
 [bot]Chef
 [bot]Join us!
+[bot]Monkbox
