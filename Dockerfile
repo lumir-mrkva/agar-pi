@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.1
+FROM dduportal/rpi-alpine
 MAINTAINER jiri.fabian@topmonks.com
 
 ENV CONFIG_PATH="/home/Ogar/src"
